@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BatNav</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="swSound">Arduino</string>
+    <string name="minus">MINUS</string>
+    <string name="plus">PLUS</string>
+    <string name="swGPS">Outdoor</string>
+</resources>
