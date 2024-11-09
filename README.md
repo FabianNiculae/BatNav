@@ -35,4 +35,4 @@ Along with the wearable device, a smartphone application that can store and proc
 necessary for a complete and semi-autonomous navigation system to be considered usable for
 the case described. This is because otherwise the wearable device will need much more
 electronic components and hardware to function properly and will also be a lot bigger.
-3
+
